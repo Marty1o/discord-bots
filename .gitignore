@@ -1,0 +1,8 @@
+# Compiler outputs #
+.env
+
+# Directories #
+__pycache__
+
+# Packages #
+*.pyc
